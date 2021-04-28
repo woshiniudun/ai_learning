@@ -1,10 +1,9 @@
-# ai_learning
+ai_learning
+==
 1. python
 2. leetcode
-3. 
-4.有意思的库
-  1） scrapy
-5. 机器学习
+3. 有意思的库
+  1） scrapy机器学习
 6. 深度学习
 7. 机器学习相关库
   1） numpy
