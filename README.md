@@ -1,6 +1,6 @@
 # python 
 - **[python教程](https://docs.python.org/zh-cn/3/tutorial/index.html)**
- -[]解释器
+- [ ]解释器
 - **[Python 标准库](https://docs.python.org/zh-cn/3/library/index.html)**
 # leetcode
 
