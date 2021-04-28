@@ -1,10 +1,10 @@
 # ai_learning
 
-python -[ ]
+- [ ] python 
 --
-leetcode -[ ]
+leetcode - [ ]
 --
-有意思的库 -[ ]
+有意思的库 - [ ]
  --
  1. scrapy机器学习
  2. 
