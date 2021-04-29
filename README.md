@@ -1,7 +1,7 @@
 ## [python](python)  
 - **[python教程](https://docs.python.org/zh-cn/3/tutorial/index.html)** 
 - **[Python 标准库](https://docs.python.org/zh-cn/3/library/index.html)**
-- conda
+- **conda**
   - **[文档](https://docs.conda.io/en/latest/)** 
 ## IDE
 - **pycharm**
@@ -35,7 +35,7 @@
 - **numpy**
   - **[官方文档](https://numpy.org/doc/stable/reference/)** 
 - **pandas**
-  - **[官方文档](https://pandas.pydata.org/docs/) **
+  - **[官方文档](https://pandas.pydata.org/docs/)**
 - **mathplotlib**
   -  **[官方文档](https://matplotlib.org/)**
 - **seanborn**
@@ -63,7 +63,7 @@
 - **AIStudio**
   - **[官方网站](https://aistudio.baidu.com/aistudio/index)** 
 - **天池**
-  -**[官方网站](https://tianchi.aliyun.com/)**
+  - **[官方网站](https://tianchi.aliyun.com/)**
 ## 其他
 - **github**
   - **[github手册](https://git-scm.com/book/zh/v2)**
