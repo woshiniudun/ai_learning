@@ -13,4 +13,6 @@ $ ls -F1
 ## Git对象
 ### Git对象
 Git 是一个内容寻址文件系统。这意味着，Git 的核心部分是一个简单的键值对数据库（key-value data store）。</br>
-    asdfasd
+``` shell
+git clone
+```
