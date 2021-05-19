@@ -1,0 +1,3 @@
+- [scrapy文档](https://docs.scrapy.org/en/latest/)
+- [selenium文档](https://www.selenium.dev/documentation/en/)
+- [selenium-python文档](https://selenium-python-zh.readthedocs.io/en/latest/index.html)
