@@ -30,9 +30,9 @@
 - [天池](./tianch)
 
 ## 课程
-- 机器学习(./machine-learning)
-- 深度学习(./deep-learning)
-- 强化学习(./reinforcement-learning)
+- [机器学习](./machine-learning)
+- [深度学习](./deep-learning)
+- [强化学习](./reinforcement-learning)
 
 ## 其他
 - [quotes](quotes/quotes.md)
