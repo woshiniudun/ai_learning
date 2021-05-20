@@ -1,1 +1,1 @@
-[力扣]https://leetcode-cn.com/
+[力扣](https://leetcode-cn.com/)
