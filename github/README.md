@@ -9,6 +9,6 @@ ssh-keygen -o
 start C:\Users\Admin\.ssh
 ```
 ## 加速访问
-start C:\Windows\System32\Drivers\etc
-增加 ip github.com
-ip从工具网站上查找
+start C:\Windows\System32\Drivers\etc</br>
+增加 ip github.com</br>
+ip从工具网站上查找</br>
