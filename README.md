@@ -20,6 +20,12 @@
 - [pytorch](./pytorch)
 - [paddle](./paddle)
 
+## 自然语言处理
+- [知识图谱]
+- []
+
+## 图像识别
+
 ## 模型和数据集
 - [MNIST](./mnist)
 - [bert](./bert)
