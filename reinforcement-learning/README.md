@@ -1,0 +1,2 @@
+- **[天池强化课程](https://tianchi.aliyun.com/specials/promotion/aicamprl?spm=5176.14154004.J_1266466330.4.31fe5699ACPlkq)**
+- **《强化学习》**
