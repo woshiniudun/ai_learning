@@ -3,3 +3,4 @@
 - 《西瓜书》
 - [南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)
 - 《统计学习方法》
+- 统计学习方法代码实现(https://github.com/Dod-o/Statistical-Learning-Method_Code)
