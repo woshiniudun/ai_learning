@@ -1,0 +1,2 @@
+- [机器学习coursera](https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine-learning)
+- [cs231斯坦福卷积网络](http://cs231n.stanford.edu/)
