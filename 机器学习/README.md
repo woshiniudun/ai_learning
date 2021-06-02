@@ -1,6 +1,7 @@
 - [机器学习coursera](https://www.coursera.org/learn/machine-learning/lecture/zcAuT/welcome-to-machine-learning)
+- [吴恩达机器学习笔记](http://www.ai-start.com/ml2014/)
 - [cs231斯坦福卷积网络](http://cs231n.stanford.edu/)
 - 《西瓜书》
 - [南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)
 - 《统计学习方法》
-- 统计学习方法代码实现(https://github.com/Dod-o/Statistical-Learning-Method_Code)
+- [统计学习方法代码实现](https://github.com/Dod-o/Statistical-Learning-Method_Code)
