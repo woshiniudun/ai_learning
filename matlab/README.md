@@ -1,1 +1,5 @@
 - [matlab文档](https://www.mathworks.com/help/matlab/)
+- [matlab视频](https://www.coursera.org/learn/machine-learning/supplement/Mlf3e/more-octave-matlab-resources)
+- [matlab online](https://matlab.mathworks.com/)
+- [matlab onramp](https://matlabacademy.mathworks.com/)
+- [get started](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
