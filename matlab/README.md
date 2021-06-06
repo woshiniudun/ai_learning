@@ -3,3 +3,9 @@
 - [matlab online](https://matlab.mathworks.com/)
 - [matlab onramp](https://matlabacademy.mathworks.com/)
 - [get started](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
+- [matlab 函数API文档]
+- [simulink]
+# matlab视频
+- 分号;阻止输出结果，ans会储存上一次的结果
+- + - * / sqrt ^ ()
+- matlab是为矩阵设计的，所以sin、log10、exp这些函数可以接受矩阵输入，输出矩阵
