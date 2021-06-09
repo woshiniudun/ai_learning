@@ -2,6 +2,7 @@
 ## 基本用法
 ### 网络问题
 .condarc使用清华镜像,最好使用http,安装时用-c conda-forge通道
+https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 ```
 channels:
   - defaults
