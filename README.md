@@ -2,6 +2,7 @@
 - [python tutorial](./python)
 - [standard library](./python-lib)
 - [conda](./conda)
+- [pip](./pip)
 - [IDE](./IDE)
 - [github](./github)
 ## 算法 
