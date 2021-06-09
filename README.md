@@ -9,6 +9,7 @@
 ## 有意思的库 
  - [scrapy](./scrapy)
 
+
 ## 机器学习&深度学习库
 - [numpy](./numpy)
 - [pandas](./pandas)
@@ -19,6 +20,8 @@
 - [keras](./keras)
 - [pytorch](./pytorch)
 - [paddle](./paddle)
+
+## 推荐算法
 
 ## 自然语言处理
 - [知识图谱]
