@@ -1,7 +1,7 @@
 [文档](https://docs.conda.io/en/latest/)
 ## 基本用法
 ### 网络问题
-.condarc使用清华镜像,最好使用http,安装时用-c conda-forge通道
+.condarc使用清华镜像,最好使用http,安装时用-c conda-forge通道</br>
 https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 ```
 channels:
