@@ -1,7 +1,7 @@
 ## python基础
 - [python tutorial](./python)
 - [standard library](./python-lib)
-- [conda](./connda)
+- [conda](./conda)
 - [IDE](./IDE)
 - [github](./github)
 ## 算法 
