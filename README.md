@@ -36,6 +36,7 @@
 - [kaggle](./kaggle)
 - [AIStudio](./AIStudio)
 - [天池](./tianch)
+- [腾讯大数据](txbigdata)
 
 ## 课程
 - [机器学习](./machine-learning)
