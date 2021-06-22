@@ -1,2 +1,37 @@
 - [Doc](https://pytorch.org/docs/stable/index.html)
 - [apachCN](https://dl.apachecn.org/#/)
+- [他人学习笔记](https://link.zhihu.com/?target=https%3A//pytorch.zhangxiann.com/)
+## 大纲
+- Week 1（基本概念） 
+  - 1.1 PyTorch 简介与安装
+  - 1.2 Tensor(张量)介绍
+  - 1.3 张量操作与线性回归
+  - 1.4 计算图与动态图机制
+  - 1.5 autograd 与逻辑回归
+- Week 2（图片处理与数据加载） 
+  - 2.1 DataLoader 与 DataSet
+  - 2.2 图片预处理 transforms 模块机制
+  - 2.3 二十二种 transforms 图片数据预处理方法
+- Week 3（模型构建） 
+  - 3.1 模型创建步骤与 nn.Module
+  - 3.2 卷积层
+  - 3.3 池化层、线性层和激活函数层
+- Week 4（模型训练） 
+  - 4.1 权值初始化
+  - 4.2 损失函数
+  - 4.3 优化器
+- Week 5（可视化与 Hook） 
+  - 5.1 TensorBoard 介绍
+  - 5.2 Hook 函数与 CAM 算法
+- Week 6（正则化）
+  -  6.1 weight decay 和 dropout
+  -  6.2 Normalization
+-  Week 7（模型其他操作） 
+  -  7.1 模型保存与加载
+  -  7.2 模型 Finetune
+  -  7.3 使用 GPU 训练模型
+-  Week 8（实际应用） 
+  -  8.1 图像分类简述与 ResNet 源码分析
+  -  8.2 目标检测简介
+  -  8.3 GAN（生成对抗网络）简介
+  -  8.4 手动实现 RNN
