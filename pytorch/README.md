@@ -2,6 +2,7 @@
 - [apachCN](https://dl.apachecn.org/#/)
 - [他人学习笔记](https://link.zhihu.com/?target=https%3A//pytorch.zhangxiann.com/)
 - [中文教程](https://pytorch.apachecn.org/docs/1.7/01.html)
+- [安装](https://pytorch.org/get-started/locally/)
 ## 教程大纲
 ### pytorch简介
 - 学习基础知识
