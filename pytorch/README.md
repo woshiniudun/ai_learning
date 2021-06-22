@@ -1,37 +1,119 @@
 - [Doc](https://pytorch.org/docs/stable/index.html)
 - [apachCN](https://dl.apachecn.org/#/)
 - [他人学习笔记](https://link.zhihu.com/?target=https%3A//pytorch.zhangxiann.com/)
-## 大纲
-- Week 1（基本概念） 
-  - 1.1 PyTorch 简介与安装
-  - 1.2 Tensor(张量)介绍
-  - 1.3 张量操作与线性回归
-  - 1.4 计算图与动态图机制
-  - 1.5 autograd 与逻辑回归
-- Week 2（图片处理与数据加载） 
-  - 2.1 DataLoader 与 DataSet
-  - 2.2 图片预处理 transforms 模块机制
-  - 2.3 二十二种 transforms 图片数据预处理方法
-- Week 3（模型构建） 
-  - 3.1 模型创建步骤与 nn.Module
-  - 3.2 卷积层
-  - 3.3 池化层、线性层和激活函数层
-- Week 4（模型训练） 
-  - 4.1 权值初始化
-  - 4.2 损失函数
-  - 4.3 优化器
-- Week 5（可视化与 Hook） 
-  - 5.1 TensorBoard 介绍
-  - 5.2 Hook 函数与 CAM 算法
-- Week 6（正则化）
-  -  6.1 weight decay 和 dropout
-  -  6.2 Normalization
--  Week 7（模型其他操作） 
-  -  7.1 模型保存与加载
-  -  7.2 模型 Finetune
-  -  7.3 使用 GPU 训练模型
--  Week 8（实际应用） 
-  -  8.1 图像分类简述与 ResNet 源码分析
-  -  8.2 目标检测简介
-  -  8.3 GAN（生成对抗网络）简介
-  -  8.4 手动实现 RNN
+- [中文教程](https://pytorch.apachecn.org/docs/1.7/01.html)
+## 教程大纲
+### pytorch简介
+- 学习基础知识
+- 快速开始
+- 张量
+- 数据集和数据加载器
+- 变换
+- 构建神经网络
+- 自动微分 torch.autograd
+- 优化模型参数
+- 保存和加载模型
+### 学习 PyTorch
+- 使用 PyTorch 进行深度学习：60 分钟闪电战
+- 用例子学习 PyTorch
+- 什么是torch.nn 真的？
+- 使用 TensorBoard 可视化模型、数据和训练
+### 视觉
+- TorchVision 目标检测微调教程
+- 计算机视觉教程的迁移学习
+- 对抗性示例生成
+- DCGAN 教程
+- 优化用于部署的 Vision Transformer 模型
+### 音频
+- 使用 torchaudio 进行音频处理
+- 音频输入/输出
+- 重采样
+- 数据增强
+- 特征提取
+- - 特征增强
+- 数据集
+- 使用 torchaudio 进行语音命令识别
+### 文字
+- 使用 nn.Transformer 和 TorchText 进行语言建模
+- 从零开始的 NLP：使用字符级 RNN 对名称进行分类
+- NLP 从头开始​​：使用字符级 RNN 生成名称
+- 从零开始的 NLP：使用序列到序列网络和注意力的翻译
+- 使用 torchtext 库进行文本分类
+- 使用 nn.Transformer 和 torchtext 进行语言翻译
+### 强化学习
+- 强化学习 (DQN) 教程
+- 训练一个玩马里奥的 RL 代理
+### 生产部署
+- 使用 Flask 通过 REST API 在 Python 中部署 PyTorch
+- TorchScript 简介
+- 在 C++ 中加载 TorchScript 模型
+- （可选）将模型从 PyTorch 导出到 ONNX 并使用 ONNX Runtime 运行它
+### 使用 FX 进行代码转换[ - ]
+- （测试版）在 FX 中构建卷积/批量归一化器
+- （测试版）使用 FX 构建简单的 CPU 性能分析器
+### 前端 API
+- （测试版）PyTorch 中的最后一个内存格式
+- - - 使用 PyTorch C++ 前端
+- - TorchScript 中的动态并行性
+- C++ 前端中的 Autograd
+### 扩展 PyTorch
+- - - 自定义 C++ 和 CUDA 扩展
+- - 使用自定义 C++ 运算符扩展 TorchScript
+- 使用自定义 C++ 类扩展 TorchScript
+- 在 C++ 中注册调度运算符
+- 在 C++ 中为新后端扩展调度程序
+### 模型优化
+- 分析你的 PyTorch 模块
+- - 带有 TensorBoard 的 PyTorch Profiler
+- 使用 Ray Tune 调整超参数
+- 参数化教程
+- 修剪教程
+- (beta) LSTM Word 语言模型上的动态量化
+- （测试版）BERT 上的动态量化
+- （测试版）计算机视觉教程的量化迁移学习
+- (beta) 在 PyTorch 中使用 Eager 模式进行静态量化
+### 行和分布式训练
+- PyTorch 分布式概述
+- - - 单机模型并行最佳实践
+- - 分布式数据并行入门
+- 使用 PyTorch 编写分布式应用程序
+- 分布式 RPC 框架入门
+- 使用分布式 RPC 框架实现参数服务器
+- 使用 RPC 的分布式管道并行
+- 使用异步执行实现批处理 RPC 处理
+- 结合分布式 DataParallel 和分布式 RPC 框架
+- 使用流水线并行性训练 Transformer 模型
+- 使用分布式数据并行和流水线并行训练 Transformer 模型
+### 手机
+- iOS 上的图像分割 DeepLabV3
+- Android 上的图像分割 DeepLabV3
+### pytorch食谱
+基本
+- 加载数据
+- 定义神经网络
+- state_dict
+- 保存模型
+- 保存检查点
+- 一个文件保存多个模型
+- 热启动其他模型
+- 跨设备保存
+- 梯度归零？
+- 基准测试？
+- 分析器？
+- captum？
+- zeroRedundancyOptimizer
+- RPC
+- torchscript
+- 动态量化
+- 自动混合精度
+- 性能调优指南
+- 移动
+- 安卓
+- 融合
+- torchscript
+- ios
+- flask
+- RPC
+- 动态量化
+- tensorboard
+- 分布式优化器
