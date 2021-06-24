@@ -20,3 +20,5 @@ custom_channels:
   pytorch: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
   simpleitk: http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
 ```
+- conda命令需要
+- pycharm配置conda
