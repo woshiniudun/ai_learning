@@ -5,6 +5,7 @@
 - [pip](./pip)
 - [IDE](./IDE)
 - [github](./github)
+- [jupyter](jupyter)
 ## 算法 
 - [leetcode](./leetcode)
 ## 有意思的库 
