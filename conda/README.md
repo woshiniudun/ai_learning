@@ -1,4 +1,5 @@
-[文档](https://docs.conda.io/en/latest/)
+- [文档](https://docs.conda.io/en/latest/)
+- [安装教程](https://zhuanlan.zhihu.com/p/36398337)
 ## 基本用法
 ### 网络问题
 .condarc使用清华镜像,最好使用http,安装时用-c conda-forge通道</br>
