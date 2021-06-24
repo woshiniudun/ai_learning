@@ -6,3 +6,4 @@
 conda install -c conda-forge jupyterlab
 ```
 - 下载anaconda会有一个jupyter notebook的快捷方式
+- 启动 jupyter lab
