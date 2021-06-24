@@ -6,6 +6,7 @@
 - [IDE](./IDE)
 - [github](./github)
 - [jupyter](jupyter)
+- [markdown](markdown)
 ## 算法 
 - [leetcode](./leetcode)
 ## 有意思的库 
