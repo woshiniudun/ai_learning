@@ -7,6 +7,7 @@
 - [github](./github)
 - [jupyter](jupyter)
 - [markdown](markdown)
+- [scipy](scipy)
 ## 算法 
 - [leetcode](./leetcode)
 ## 有意思的库 
