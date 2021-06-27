@@ -41,9 +41,9 @@
 - [腾讯大数据](txbigdata)
 
 ## 课程
-- [机器学习](./machine-learning)
-- [深度学习](./deep-learning)
-- [强化学习](./reinforcement-learning)
+- [机器学习](机器学习)
+- [深度学习](深度学习)
+- [强化学习](强化学习)
 
 ## 其他
 - [quotes](quotes/quotes.md)
