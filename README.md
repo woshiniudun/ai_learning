@@ -33,7 +33,7 @@
 ## 模型和数据集
 - [MNIST](./mnist)
 - [bert](./bert)
-
+- [deepFM](deepFM)
 ## 竞赛
 - [kaggle](./kaggle)
 - [AIStudio](./AIStudio)
