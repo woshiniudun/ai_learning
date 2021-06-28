@@ -40,6 +40,8 @@
 - [AIStudio](./AIStudio)
 - [天池](./tianch)
 - [腾讯大数据](txbigdata)
+- [datafountain](datafountain)
+- [biendata](biendata)
 
 ## 课程
 - [机器学习](机器学习)
