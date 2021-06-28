@@ -42,6 +42,8 @@
 - [腾讯大数据](txbigdata)
 - [datafountain](datafountain)
 - [biendata](biendata)
+- [datacastle](datacastle)
+- [Jdata](Jdata)
 
 ## 课程
 - [机器学习](机器学习)
