@@ -9,7 +9,8 @@
 - [时2延网络](https://sci-hub.mksa.top/10.1016/0893-6080(90)90044-l)
 - [LSTM]
 ## CNN
-- [Generalization and Network Design Strategies - lecun](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=FFC68D55B6C24229FF3D33D0891ED180?doi=10.1.1.476.479&rep=rep1&type=pdf)
+- [Generalization and Network Design Strategies - lecun](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=FFC68D55B6C24229FF3D33D0891ED180?doi=10.1.1.476.479&rep=rep1&type=pdf) 
+- [Large automatic learning, rule extraction and generalization](https://www.researchgate.net/profile/Sara-Solla/publication/246649513_Large_Automatic_Learning_Rule_Extraction_and_Generalisation/links/54295b1f0cf26120b7b6059e/Large-Automatic-Learning-Rule-Extraction-and-Generalisation.pdf)
 ## nn
 - [learning by backpro errors]()
 ## 阅读理解
