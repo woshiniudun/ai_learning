@@ -1,7 +1,7 @@
 - [官方网站](https://jupyter.org/try)
 - [conda lab文档](https://jupyterlab.readthedocs.io/en/latest/)
 ## 基本用法
-- 安装，前提是有anaconda和设置好了python环境
+- 安装，前提是有anaconda和设置好了python环境。在非环境安装启动报错了，在环境安装成功了
 ```
 conda install -c conda-forge jupyterlab
 ```
