@@ -24,6 +24,7 @@
 - [keras](./keras)
 - [pytorch](./pytorch)
 - [paddle](./paddle)
+- [sklearn](sklearn)
 
 ## 应用领域
 - [推荐系统](推荐系统)
