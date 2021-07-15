@@ -1,2 +1,5 @@
 - [tutorial](http://seaborn.pydata.org/tutorial.html)
 - [introduction](https://seaborn.pydata.org/introduction.html)
+## get started
+- tips = sns.load_dataset("tips") https://github.com/mwaskom/seaborn-data 用来演示用的数据集
+- relplot() 函数
