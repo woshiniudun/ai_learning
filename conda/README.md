@@ -22,3 +22,5 @@ custom_channels:
 - conda命令需要
 - pycharm配置conda
 ## 常用命令
+- conda按照requirement安装 conda install --file requirement.txt
+- conda create -n envname python=3.7
