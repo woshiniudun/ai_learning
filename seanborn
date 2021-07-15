@@ -2,4 +2,5 @@
 - [introduction](https://seaborn.pydata.org/introduction.html)
 ## get started
 - tips = sns.load_dataset("tips") https://github.com/mwaskom/seaborn-data 用来演示用的数据集
-- relplot() 函数
+- relplot() 函数 relationships parameters:kind="line"  size= 控制大小  style 区分样式 hue 色调
+- lmplot() 线性 displot() 分布 catplot(kine="swarm")群 pairplot 数值配对
