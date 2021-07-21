@@ -14,7 +14,7 @@
 ## 决策树
 - [ID3  quinlan 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
 - [C4.5 quinlan 1993](http://server3.eca.ir/isi/forum/Programs%20for%20Machine%20Learning.pdf)
-- [CART](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-richard-olshen-charles-stone) [本地](file:///D:/download/9781315139470_previewpdf.pdf)
+- [CART](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-richard-olshen-charles-stone) 本地file:///D:/download/9781315139470_previewpdf.pdf
 ## k-近邻
 ## 数学基础
 - 梯度下降
