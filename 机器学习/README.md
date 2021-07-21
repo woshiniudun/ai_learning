@@ -15,8 +15,7 @@
 - [ID3  quinlan 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
   - 人工智能1950年
   - 涉及论文[跳棋 samul 1959](https://hci.iwr.uni-heidelberg.de/system/files/private/downloads/636026949/report_frank_gabel.pdf)   [1980s的专家系统](https://stacks.stanford.edu/file/druid:vf069sz9374/vf069sz9374.pdf) [Experiments on the Mechanization of Game-learning
- Mechanisation of Thought Processe](https://watermark.silverchair.com/25-1-105.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAscwggLDBgkqhkiG9w0BBwagggK0MIICsAIBADCCAqkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM3STuoEmmKsJIqIkrAgEQgIICenUAzQcR64f9gr4oVyWoZ0IG8e7h5w_Yp3ZAHx-poB2W4h8y9YJfP_Kh-zKWfd98yaAfVTAtmaNsdqCxOfFY0Z-PuxEiTeqUS5_87bE0iUYjckL3y_bVKCw8W943RH4RtYqE5xZjU0QGXVAlosWPr4TBV_QGsIjGsTY7pDaSpeisnh4_EY2bJzAQTY9W5X0HAzSjM5ta6naaxExb0POl8W2eRLZIzHLzmziWn_Fp2BDAeDpFgYfQoisqXmoEeJIXrGSzhOTDTZFQ_eB5IHa1tWLNyWxGlt3FYbTQVX62_xSqGgJbr0-KKnmHUyq5YrT7RGGH83jPVpSXhVyjSITzifffsA1dm-z-rpXQOBZRvUDHOMFMZQZe1DM48KLVnS5ROJgyl5jwp4PHLoThTCVVHn085W4Ol1yRYzXOjUo0_QEf9IVrls2qrSR1mP1uQrHHNaceNBbK3sni3IamScF2XrPjfdSCTvi_sNu7Dv9jvE7rvJYtdN0DaK_B3t6FC--k0W0p2Xx6wsWLvn3d-Omz1NT6dc6SnjJbZ9Eh5NAH8dWFUGA1Tc_JaMrJH4aRpG9bNHTnOGKtbpBf3ujRie3_gbLp5OlFjj3yFk5lXkUoJpm3FDYs2VI4KKiH4IV_sKiqDY7DmfFJ4J5WiMGcowaJvmegbBWy8xIZgWFonnNXxo8VBHpoEjXnRfonsJDoRgippeMx2nmlIHkqO6OktxF4DDN6GWqV7Mh6B1lru1q2i4g-KPW_GJm42CzuSpyoY4cq9BH66jSPgJpKTFdqpWyCpWEOrE1bvf_-7rUbuYUcx4MAGnLD9dSsdzPfOk58STzfUFaIt4bcGgzLLmY)
-- [C4.5 quinlan 1993](http://server3.eca.ir/isi/forum/Programs%20for%20Machine%20Learning.pdf)
+ Mechanisation of Thought Processe](https://academic.oup.com/comjnl/article/25/1/105/527270?login=true)
 - [CART](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-richard-olshen-charles-stone) 本地  file:///D:/download/9781315139470_previewpdf.pdf
 ## k-近邻
 ## 数学基础
