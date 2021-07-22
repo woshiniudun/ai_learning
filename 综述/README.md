@@ -1,2 +1,0 @@
-- [大数据时代事件预测](https://dl.acm.org/doi/pdf/10.1145/3450287)
-- [论文阅读网站](https://artigopapers.io/home/trending)
