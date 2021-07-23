@@ -60,3 +60,4 @@
 - [AI公司&科学家](./company&scientist)
 - [GPU](GPU)
 - [论文](论文)
+- [芯片](芯片)
