@@ -19,7 +19,12 @@
   - 涉及论文[跳棋 samul 1959](https://hci.iwr.uni-heidelberg.de/system/files/private/downloads/636026949/report_frank_gabel.pdf)   [1980s的专家系统](https://stacks.stanford.edu/file/druid:vf069sz9374/vf069sz9374.pdf) [Experiments on the Mechanization of Game-learning
  Mechanisation of Thought Processe](https://academic.oup.com/comjnl/article/25/1/105/527270?login=true) [1983 ml综述](http://ebot.gmu.edu/bitstream/handle/1920/1569/83-02.pdf?sequence=1&isAllowed=y) [从例子中学习结构 1975](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2)
 - [CART](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-richard-olshen-charles-stone) 本地  file:///D:/download/9781315139470_previewpdf.pdf
+- [2001 随机森林](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
+- [2016 xgboot](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)
+- [2017“Lightgbm: A highly efficient gradient boosting decision tree](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
 ## k-近邻
+## 贝叶斯分类
+- [1961 NB](https://sci2s.ugr.es/keel/pdf/algorithm/classification-algorithm/Maron1961.pdf)
 ## 数学基础
 - 梯度下降
 - 牛顿法和拟牛顿法
