@@ -8,7 +8,7 @@
   - 机器学习分类一般需要很好的特征 
 ## 句法分析
 ## 文本分类
-- [文本分类综述](https://www.zhihu.com/question/27529154/answer/1643865710)
+- [文本分类综述](https://www.zhihu.com/question/27529154/answer/1643865710) [综述论文](https://arxiv.org/pdf/2008.00364v2.pdf)
 - [textCNN](http://www.arxiv.org/pdf/1408.5882.pdf)
 ## 词性分析
 ## 抽象摘要
