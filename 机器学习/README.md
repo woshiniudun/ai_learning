@@ -10,7 +10,9 @@
 - [线性支持向量机](https://link.springer.com/content/pdf/10.1007/bf00994018.pdf 1995)
   - 高泛化，线性决策面，决策函数是个两层网络，高维度的特征空间 1965vapnic提出最优超平面，1992证明点积和非线性变换可以互换也叫支持向量网络
   - [超平面和距离公式](https://www.jianshu.com/p/ba02b92baaaf) [拉格朗日对偶性](https://www.zhihu.com/search?type=content&q=%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E4%BC%98%E5%8C%96)凸优化笔记6 [仿射函数的下确界] [二次规划](https://zhuanlan.zhihu.com/p/375762164)
-- [核技巧](https://www.researchgate.net/profile/Bernhard-Boser/publication/2376111_A_Training_Algorithm_for_Optimal_Margin_Classifier/links/560eccc208ae0fc513ee8fc9/A-Training-Algorithm-for-Optimal-Margin-Classifier.pdf) [SMO](https://www.researchgate.net/profile/John-Platt-2/publication/234786663_Fast_Training_of_Support_Vector_Machines_Using_Sequential_Minimal_Optimization/links/00b4952539b71249bc000000/Fast-Training-of-Support-Vector-Machines-Using-Sequential-Minimal-Optimization.pdf)
+- [核技巧](https://www.researchgate.net/profile/Bernhard-Boser/publication/2376111_A_Training_Algorithm_for_Optimal_Margin_Classifier/links/560eccc208ae0fc513ee8fc9/A-Training-Algorithm-for-Optimal-Margin-Classifier.pdf) 
+  - supported partern? dual space?
+- [SMO](https://www.researchgate.net/profile/John-Platt-2/publication/234786663_Fast_Training_of_Support_Vector_Machines_Using_Sequential_Minimal_Optimization/links/00b4952539b71249bc000000/Fast-Training-of-Support-Vector-Machines-Using-Sequential-Minimal-Optimization.pdf)
 ## 决策树
 - [ID3  quinlan 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
   - 人工智能1950年，knowledge-based systems,预测暴雨、诊断什么的，Concept Learning System，决策树是专家系统的一个成员，熵增信息论，noise：随机的也能熵减，因此设置一个阈值，[卡方独立性检验](https://www.zhihu.com/search?q=%E5%8D%A1%E6%96%B9%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C&utm_content=search_suggestion&type=content) [卡方分布怎么理解](https://www.zhihu.com/question/20358827)
