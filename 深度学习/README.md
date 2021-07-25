@@ -6,7 +6,8 @@
 - [GAN的十篇论文](https://www.zhihu.com/search?type=content&q=discrimination%20nets%20)
 ## transformer
 - [深入理解transformer源码](https://blog.csdn.net/zhaojc1995/article/details/109276945)
-- [attention is all you need - 提出只含attention的transformer]()
+- [attention is all you need - 提出只含attention的transformer](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [“BERT: pre-training of deep bidirectional transformers for language nderstanding](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrhhzxlCL6yTht2BRmH9atgvKFxHsxQ)
 ## RNN
 - [Phoneme recogmtwn using time-delay neural networks - waibel 当时的语音识别sota？](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=21701)
 - [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850)
