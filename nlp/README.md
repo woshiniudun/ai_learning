@@ -7,6 +7,11 @@
 - [阅读理解综述](https://blog.csdn.net/stay_foolish12/article/details/91049154?)
   - 机器学习分类一般需要很好的特征 
 ## 句法分析
+- [词袋] 
+- [n-gram](https://www.zhihu.com/search?type=content&q=N-GRAM)
+- [TF-IDF](https://www.zhihu.com/search?type=content&q=TF-IDF) 
+- [word 2 vec](https://arxiv.org/pdf/1301.3781.pdf%C3%AC%E2%80%94%20%C3%AC%E2%80%9E%C5%93)
+- [glove](https://aclanthology.org/D14-1162.pdf)
 ## 文本分类
 - [文本分类综述](https://www.zhihu.com/question/27529154/answer/1643865710) [综述论文](https://arxiv.org/pdf/2008.00364v2.pdf)
 - [textCNN](http://www.arxiv.org/pdf/1408.5882.pdf)
