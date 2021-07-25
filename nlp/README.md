@@ -9,6 +9,7 @@
 ## 句法分析
 ## 文本分类
 - [文本分类综述](https://www.zhihu.com/question/27529154/answer/1643865710)
+- [textCNN](http://www.arxiv.org/pdf/1408.5882.pdf)
 ## 词性分析
 ## 抽象摘要
 ## 文本蕴含
