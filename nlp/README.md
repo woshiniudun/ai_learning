@@ -27,6 +27,7 @@
 - [阅读理解综述](https://blog.csdn.net/stay_foolish12/article/details/91049154?)
 ## 句法分析
 ## 文本分类
+- [文本分类综述](https://www.zhihu.com/question/27529154/answer/1643865710)
 ## 词性分析
 ## 抽象摘要
 ## 文本蕴含
