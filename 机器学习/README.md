@@ -25,6 +25,8 @@
 ## k-近邻
 ## 贝叶斯分类
 - [1961 NB](https://sci2s.ugr.es/keel/pdf/algorithm/classification-algorithm/Maron1961.pdf)
+- [2021 NB0](https://www.researchgate.net/profile/Min-Ling-Zhang-2/publication/50402189_Multi-Label_Learning_by_Exploiting_Label_Dependency/links/565d988808ae1ef92982f7ef/Multi-Label-Learning-by-Exploiting-Label-Dependency.pdf)
+- [贝叶斯和散度](https://aclanthology.org/P04-3024.pdf)
 ## 数学基础
 - 梯度下降
 - 牛顿法和拟牛顿法
