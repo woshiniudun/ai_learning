@@ -5,6 +5,17 @@
 - [南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)
 - 《统计学习方法》
 - [统计学习方法代码实现](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+## 提升方法
+- [介绍](http://www.yorku.ca/gisweb/eats4400/boost.pdf)
+- [1984可学习](https://axon.cs.byu.edu/~martinez/classes/678/Papers/Valiant_Learnable.pdf)
+- [弱学习1990](https://link.springer.com/content/pdf/10.1007/BF00116037.pdf)
+- [adaboost](https://static.aminer.org/pdf/PDF/000/192/601/a_decision_theoretic_generalization_of_on_line_learning_and_an.pdf)
+- [前向分布加法模型](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.9525&rep=rep1&type=pdf)
+## LR和ME
+- [1996 LR](https://aclanthology.org/J96-1002.pdf)
+- [最大熵模型](http://luthuli.cs.uiuc.edu/~daf/courses/optimization/papers/berger-iis.pdf)
+- [LR和adaboost](https://link.springer.com/content/pdf/10.1023/A:1013912006537.pdf)
+- [LR和核函数](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1347&rep=rep1&type=pdf)
 ## SVM
 - [凸集](https://blog.csdn.net/liuweiyuxiang/article/details/99888556) [凸优化] 仿射就是想相仿映射的意思吧 [笛卡尔积](https://blog.csdn.net/GabeLoganNewell/article/details/109095298)
 - [线性支持向量机](https://link.springer.com/content/pdf/10.1007/bf00994018.pdf 1995)
@@ -23,12 +34,24 @@
 - [2016 xgboot](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)
 - [2017“Lightgbm: A highly efficient gradient boosting decision tree](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
 ## k-近邻
+- [1967k近邻](https://www.cs.bgu.ac.il/~adsmb182/wiki.files/borak-lecture%20notes.pdf)
+## EM算法
+- [1977EM算法](https://aclanthology.org/P04-3024.pdf)
+- [1983EM算法的收敛性证明](https://www.ams.jhu.edu/~spall/05S_550.790/Papers/EM_Wu83.pdf)
+- [1999GEM](learning in graphical models 355-368)
 ## 贝叶斯分类
 - [1961 NB](https://sci2s.ugr.es/keel/pdf/algorithm/classification-algorithm/Maron1961.pdf)
 - [2021 NB0](https://www.researchgate.net/profile/Min-Ling-Zhang-2/publication/50402189_Multi-Label_Learning_by_Exploiting_Label_Dependency/links/565d988808ae1ef92982f7ef/Multi-Label-Learning-by-Exploiting-Label-Dependency.pdf)
 - [贝叶斯和散度](https://aclanthology.org/P04-3024.pdf)
+## 感知机
+- [感知机提出1957](http://www2.fiit.stuba.sk/~cernans/nn/nn_texts/neuronove_siete_priesvitky_02_Q.pdf) 甚至都不是标准的论文格式
+- [理论研究](https://monge.univ-mlv.fr/~berstel/Mps/Travaux/A/A/1963-4ElementaryFamAutomataSympThAut.pdf)
+- [口袋算法](https://www.ling.upenn.edu/courses/cogs501/Gallant1990.pdf)
+- [表决感知机](https://link.springer.com/content/pdf/10.1023/A:1007662407062.pdf)
+- [带边缘感知机](https://aclanthology.org/W05-0610.pdf)
 ## 数学基础
 - 梯度下降
 - 牛顿法和拟牛顿法
 - 矩阵的基本子空间
 - 拉格朗日对偶性
+##
