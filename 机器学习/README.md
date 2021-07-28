@@ -5,6 +5,11 @@
 - [南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)
 - 《统计学习方法》
 - [统计学习方法代码实现](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+## 优缺点
+- 需要多的人工分析特征，而且如果训练量大会很慢。
+- 由于浅层，收敛需要的数据集小，因此对于特定的领域，会有比较好的效果
+## 隐马尔科夫
+- [隐马尔科夫在多页文本分类的应用](http://users.softlab.ntua.gr/facilities/public/AD/Text%20Categorization/Hidden%20Markov%20Models%20for%20Text%20Categorization%20in%20Multi-Page%20Documents.pdf)
 ## 提升方法
 - [介绍](http://www.yorku.ca/gisweb/eats4400/boost.pdf)
 - [1984可学习](https://axon.cs.byu.edu/~martinez/classes/678/Papers/Valiant_Learnable.pdf)
@@ -24,6 +29,8 @@
 - [核技巧](https://www.researchgate.net/profile/Bernhard-Boser/publication/2376111_A_Training_Algorithm_for_Optimal_Margin_Classifier/links/560eccc208ae0fc513ee8fc9/A-Training-Algorithm-for-Optimal-Margin-Classifier.pdf) 
   - supported partern? dual space?
 - [SMO](https://www.researchgate.net/profile/John-Platt-2/publication/234786663_Fast_Training_of_Support_Vector_Machines_Using_Sequential_Minimal_Optimization/links/00b4952539b71249bc000000/Fast-Training-of-Support-Vector-Machines-Using-Sequential-Minimal-Optimization.pdf)
+- [1998文本分类SVM](https://link.springer.com/content/pdf/10.1007/BFb0026683.pdf)
+- [简单的SVM算法](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=989592)
 ## 决策树
 - [ID3  quinlan 1986](https://link.springer.com/content/pdf/10.1007/BF00116251.pdf)
   - 人工智能1950年，knowledge-based systems,预测暴雨、诊断什么的，Concept Learning System，决策树是专家系统的一个成员，熵增信息论，noise：随机的也能熵减，因此设置一个阈值，[卡方独立性检验](https://www.zhihu.com/search?q=%E5%8D%A1%E6%96%B9%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C&utm_content=search_suggestion&type=content) [卡方分布怎么理解](https://www.zhihu.com/question/20358827)
@@ -31,10 +38,16 @@
  Mechanisation of Thought Processe](https://academic.oup.com/comjnl/article/25/1/105/527270?login=true) [1983 ml综述](http://ebot.gmu.edu/bitstream/handle/1920/1569/83-02.pdf?sequence=1&isAllowed=y) [从例子中学习结构 1975](https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2)
 - [CART](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-richard-olshen-charles-stone) 本地  file:///D:/download/9781315139470_previewpdf.pdf
 - [2001 随机森林](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
+- [2002 DT文本分类](https://www.researchgate.net/publication/224101802_A_Decision-Tree-Based_Symbolic_Rule_Induction_System_for_Text_Categorization)
+- [2009快速决策树](https://www.researchgate.net/profile/David-Johnson-100/publication/224101802_A_Decision-Tree-Based_Symbolic_Rule_Induction_System_for_Text_Categorization/links/5458ed4b0cf2bccc4912ae1f/A-Decision-Tree-Based-Symbolic-Rule-Induction-System-for-Text-Categorization.pdf)
 - [2016 xgboot](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)
 - [2017“Lightgbm: A highly efficient gradient boosting decision tree](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
+- [2014短文本随机森林](https://www.researchgate.net/publication/300335247_Short_Text_Classification_Using_Semantic_Random_Forest)
+- [语义意识随机森林](http://184pc128.csie.ntnu.edu.tw/presentation/20-02-03/A%20Semantics%20Aware%20Random%20Forest%20for%20Text%20Classification.pdf)
 ## k-近邻
 - [1967k近邻](https://www.cs.bgu.ac.il/~adsmb182/wiki.files/borak-lecture%20notes.pdf)
+- [2001 减少knn的时间在超大数据集](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=989592)
+- [2005 不平衡合集](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.1401&rep=rep1&type=pdf)
 ## EM算法
 - [1977EM算法](https://aclanthology.org/P04-3024.pdf)
 - [1983EM算法的收敛性证明](https://www.ams.jhu.edu/~spall/05S_550.790/Papers/EM_Wu83.pdf)
