@@ -2,13 +2,16 @@
 - [吴恩达深度学习](https://mooc.study.163.com/university/deeplearning_ai#/c)
 - [吴恩达深度学习笔记](http://www.ai-start.com/dl2017/)
 - 《花书》
+## GNN
 ## GAN
 - [GAN的十篇论文](https://www.zhihu.com/search?type=content&q=discrimination%20nets%20)
 ## transformer
 - [深入理解transformer源码](https://blog.csdn.net/zhaojc1995/article/details/109276945)
 - [attention is all you need - 提出只含attention的transformer](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - [“BERT: pre-training of deep bidirectional transformers for language nderstanding](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrhhzxlCL6yTht2BRmH9atgvKFxHsxQ)
-## RNN
+## transformer
+## attention
+##RNN
 - [Phoneme recogmtwn using time-delay neural networks - waibel 当时的语音识别sota？](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=21701)
 - [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850)
 - [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
@@ -25,3 +28,5 @@
 - [Large automatic learning, rule extraction and generalization -denker 模型的抽取信息有效性](https://www.researchgate.net/profile/Sara-Solla/publication/246649513_Large_Automatic_Learning_Rule_Extraction_and_Generalisation/links/54295b1f0cf26120b7b6059e/Large-Automatic-Learning-Rule-Extraction-and-Generalisation.pdf)
 - [Skeletomzation: A techmque for trimmmg the fat from a network vm relevance assessment-mozer 剪枝蒸馏？](https://papers.nips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf)
 - [A BACK-PROPAGATION ALGORITHM WITH OPTIMAL USE OF HIDDEN UNITS- 消除冗余单元](https://proceedings.neurips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Paper.pdf)
+## MLP
+## NN
