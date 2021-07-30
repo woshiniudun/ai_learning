@@ -14,6 +14,8 @@
 - [glove](https://aclanthology.org/D14-1162.pdf)
 ## 文本分类
 - [文本分类综述](https://www.zhihu.com/question/27529154/answer/1643865710) [综述论文](https://arxiv.org/pdf/2008.00364v2.pdf)
+  - [metrics](https://blog.csdn.net/sinat_28576553/article/details/80258619) 
+  - 里面 的代码实现、数据集、模型相关论文几个表格地址比较有用，我也不复制了
 - [textCNN](http://www.arxiv.org/pdf/1408.5882.pdf)
 ## 词性分析
 ## 抽象摘要
