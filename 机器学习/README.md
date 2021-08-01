@@ -5,6 +5,7 @@
 - [南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)
 - 《统计学习方法》
 - [统计学习方法代码实现](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+- [文本分类综述中包含机器学习的新骨干部分]()
 ## 优缺点
 - 需要多的人工分析特征，而且如果训练量大会很慢。
 - 由于浅层，收敛需要的数据集小，因此对于特定的领域，会有比较好的效果
