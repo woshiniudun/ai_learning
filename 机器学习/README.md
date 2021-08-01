@@ -46,6 +46,8 @@
 - [语义意识随机森林](http://184pc128.csie.ntnu.edu.tw/presentation/20-02-03/A%20Semantics%20Aware%20Random%20Forest%20for%20Text%20Classification.pdf)
 ## k-近邻
 - [1967k近邻](https://www.cs.bgu.ac.il/~adsmb182/wiki.files/borak-lecture%20notes.pdf)
+- [1996k近邻相关讨论](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.2959&rep=rep1&type=pdf)
+- [2018k 近邻分类法](https://www.cs.bgu.ac.il/~adsmb182/wiki.files/borak-lecture%20notes.pdf)
 - [2001 减少knn的时间在超大数据集](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=989592)
 - [2005 不平衡合集](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.1401&rep=rep1&type=pdf)
 ## EM算法
