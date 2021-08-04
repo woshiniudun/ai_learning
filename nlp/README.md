@@ -18,6 +18,7 @@
   - 里面 的代码实现、数据集、模型相关论文几个表格地址比较有用，我也不复制了
 - [textCNN](http://www.arxiv.org/pdf/1408.5882.pdf)
 ## 词性分析
+- [词向量的相关材料](https://www.zhihu.com/search?type=content&q=%E8%AF%8D%E5%90%91%E9%87%8F)
 ## 抽象摘要
 ## 文本蕴含
 ## 句子表示
