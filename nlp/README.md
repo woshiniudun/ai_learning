@@ -19,6 +19,11 @@
 - [textCNN](http://www.arxiv.org/pdf/1408.5882.pdf)
 ## 词性分析
 - [词向量的相关材料](https://www.zhihu.com/search?type=content&q=%E8%AF%8D%E5%90%91%E9%87%8F)
+  - [word2vec Parameter Learning Explained](http://cs.kangwon.ac.kr/~leeck/NLP2/arxiv14_word2vec_parameter_learning_explained.pdf) 
+  - [Distributed Representations of Sentences and Documents](http://proceedings.mlr.press/v32/le14.pdf)
+  - [Efficient Estimation of Word Representations inVector Space](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space)
+  - [A scalable hierarchical distributed language model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.5467&rep=rep1&type=pdf)
+  - [Hierarchical probabilistic neural network language model](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf)
 ## 抽象摘要
 ## 文本蕴含
 ## 句子表示
