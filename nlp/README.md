@@ -24,6 +24,7 @@
   - [Efficient Estimation of Word Representations inVector Space](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space)
   - [A scalable hierarchical distributed language model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.5467&rep=rep1&type=pdf)
   - [Hierarchical probabilistic neural network language model](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf)
+  - [bag-of-n-grams](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520)
 ## 抽象摘要
 ## 文本蕴含
 ## 句子表示
