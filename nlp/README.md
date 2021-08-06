@@ -21,10 +21,18 @@
 - [词向量的相关材料](https://www.zhihu.com/search?type=content&q=%E8%AF%8D%E5%90%91%E9%87%8F)
   - [word2vec Parameter Learning Explained](http://cs.kangwon.ac.kr/~leeck/NLP2/arxiv14_word2vec_parameter_learning_explained.pdf) 
   - [Distributed Representations of Sentences and Documents](http://proceedings.mlr.press/v32/le14.pdf)
-  - [Efficient Estimation of Word Representations inVector Space](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space)
+    - n-gram虽然考虑词序但是忽略语义、容易稀疏，bag还忽略词序 
+    - [hierarchical softmax ](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf)
+    - [A Scalable Hierarchical Distributed Language Model] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.5467&rep=rep1&type=pdf)
+    - [Hierarchical Probabilistic Neural Network Language Model](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf) 加速训练
+  - [word2vec](https://code.google.com/archive/p/word2vec/)
+  - [Efficient Estimation of Word Representations inVector Space ](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space)
   - [A scalable hierarchical distributed language model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.5467&rep=rep1&type=pdf)
   - [Hierarchical probabilistic neural network language model](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf)
   - [bag-of-n-grams](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520)
+  - [Neural probabilistic language models 2006 bengio]()
+  - [Exploiting Similarities among Languages for Machine Translation](https://asset-pdf.scinapse.io/prod/2126725946/2126725946.pdf)
+  - [Linguistic Regularities in Continuous Space Word Representations](https://aclanthology.org/N13-1090.pdf)
 ## 抽象摘要
 ## 文本蕴含
 ## 句子表示
