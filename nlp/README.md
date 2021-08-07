@@ -25,12 +25,15 @@
     - [hierarchical softmax ](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf)
     - [A Scalable Hierarchical Distributed Language Model] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.5467&rep=rep1&type=pdf)
     - [Hierarchical Probabilistic Neural Network Language Model](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf) 加速训练
+    - [trategies for Training Large ScaleNeural Network Language Models,](http://www.fit.vutbr.cz/~imikolov/rnnlm/asru_large_v4.pdf)
   - [word2vec](https://code.google.com/archive/p/word2vec/)
   - [Efficient Estimation of Word Representations inVector Space ](https://www.researchgate.net/publication/234131319_Efficient_Estimation_of_Word_Representations_in_Vector_Space)
+    - [Statistical Language Models Based on Neural 2006 bengio](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
+      - 联合分布维度爆炸 
   - [A scalable hierarchical distributed language model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.5467&rep=rep1&type=pdf)
   - [Hierarchical probabilistic neural network language model](http://proceedings.mlr.press/r5/morin05a/morin05a.pdf)
   - [bag-of-n-grams](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520)
-  - [Neural probabilistic language models 2006 bengio]()
+  - [a Neural probabilistic language models 2006 bengio](https://www.jmlr.org/papers/volume3/tmp/bengio03a.pdf)
   - [Exploiting Similarities among Languages for Machine Translation](https://asset-pdf.scinapse.io/prod/2126725946/2126725946.pdf)
   - [Linguistic Regularities in Continuous Space Word Representations](https://aclanthology.org/N13-1090.pdf)
 ## 抽象摘要
